@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "44LW6BBF9MpcuAyNy4ImzDB1YNjumc+wVo/oblispn4=",
+  "Source": "PaymentIntegrationProject",
+  "BasePath": "_content/PaymentIntegrationProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

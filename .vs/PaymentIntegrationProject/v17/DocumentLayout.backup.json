@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egemen.ertas\\Desktop\\PaymentIntegrationProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26984F05-9332-448A-BF0F-3B587DE38347}|PaymentIntegrationProject\\PaymentIntegrationProject.csproj|c:\\users\\egemen.ertas\\desktop\\paymentintegrationproject\\paymentintegrationproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26984F05-9332-448A-BF0F-3B587DE38347}|PaymentIntegrationProject\\PaymentIntegrationProject.csproj|solutionrelative:paymentintegrationproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26984F05-9332-448A-BF0F-3B587DE38347}|PaymentIntegrationProject\\PaymentIntegrationProject.csproj|c:\\users\\egemen.ertas\\desktop\\paymentintegrationproject\\paymentintegrationproject\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26984F05-9332-448A-BF0F-3B587DE38347}|PaymentIntegrationProject\\PaymentIntegrationProject.csproj|solutionrelative:paymentintegrationproject\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26984F05-9332-448A-BF0F-3B587DE38347}|PaymentIntegrationProject\\PaymentIntegrationProject.csproj|c:\\users\\egemen.ertas\\desktop\\paymentintegrationproject\\paymentintegrationproject\\models\\userloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26984F05-9332-448A-BF0F-3B587DE38347}|PaymentIntegrationProject\\PaymentIntegrationProject.csproj|solutionrelative:paymentintegrationproject\\models\\userloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26984F05-9332-448A-BF0F-3B587DE38347}|PaymentIntegrationProject\\PaymentIntegrationProject.csproj|c:\\users\\egemen.ertas\\desktop\\paymentintegrationproject\\paymentintegrationproject\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26984F05-9332-448A-BF0F-3B587DE38347}|PaymentIntegrationProject\\PaymentIntegrationProject.csproj|solutionrelative:paymentintegrationproject\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26984F05-9332-448A-BF0F-3B587DE38347}|PaymentIntegrationProject\\PaymentIntegrationProject.csproj|c:\\users\\egemen.ertas\\desktop\\paymentintegrationproject\\paymentintegrationproject\\models\\paymentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26984F05-9332-448A-BF0F-3B587DE38347}|PaymentIntegrationProject\\PaymentIntegrationProject.csproj|solutionrelative:paymentintegrationproject\\models\\paymentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26984F05-9332-448A-BF0F-3B587DE38347}|PaymentIntegrationProject\\PaymentIntegrationProject.csproj|c:\\users\\egemen.ertas\\desktop\\paymentintegrationproject\\paymentintegrationproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26984F05-9332-448A-BF0F-3B587DE38347}|PaymentIntegrationProject\\PaymentIntegrationProject.csproj|solutionrelative:paymentintegrationproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26984F05-9332-448A-BF0F-3B587DE38347}|PaymentIntegrationProject\\PaymentIntegrationProject.csproj|c:\\users\\egemen.ertas\\desktop\\paymentintegrationproject\\paymentintegrationproject\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26984F05-9332-448A-BF0F-3B587DE38347}|PaymentIntegrationProject\\PaymentIntegrationProject.csproj|solutionrelative:paymentintegrationproject\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26984F05-9332-448A-BF0F-3B587DE38347}|PaymentIntegrationProject\\PaymentIntegrationProject.csproj|c:\\users\\egemen.ertas\\desktop\\paymentintegrationproject\\paymentintegrationproject\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26984F05-9332-448A-BF0F-3B587DE38347}|PaymentIntegrationProject\\PaymentIntegrationProject.csproj|solutionrelative:paymentintegrationproject\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26984F05-9332-448A-BF0F-3B587DE38347}|PaymentIntegrationProject\\PaymentIntegrationProject.csproj|c:\\users\\egemen.ertas\\desktop\\paymentintegrationproject\\paymentintegrationproject\\models\\paymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26984F05-9332-448A-BF0F-3B587DE38347}|PaymentIntegrationProject\\PaymentIntegrationProject.csproj|solutionrelative:paymentintegrationproject\\models\\paymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26984F05-9332-448A-BF0F-3B587DE38347}|PaymentIntegrationProject\\PaymentIntegrationProject.csproj|c:\\users\\egemen.ertas\\desktop\\paymentintegrationproject\\paymentintegrationproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26984F05-9332-448A-BF0F-3B587DE38347}|PaymentIntegrationProject\\PaymentIntegrationProject.csproj|solutionrelative:paymentintegrationproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26984F05-9332-448A-BF0F-3B587DE38347}|PaymentIntegrationProject\\PaymentIntegrationProject.csproj|c:\\users\\egemen.ertas\\desktop\\paymentintegrationproject\\paymentintegrationproject\\paymentintegrationproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26984F05-9332-448A-BF0F-3B587DE38347}|PaymentIntegrationProject\\PaymentIntegrationProject.csproj|solutionrelative:paymentintegrationproject\\paymentintegrationproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserLoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\PaymentIntegrationProject\\PaymentIntegrationProject\\Models\\UserLoginModel.cs",
+              "RelativeDocumentMoniker": "PaymentIntegrationProject\\Models\\UserLoginModel.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\PaymentIntegrationProject\\PaymentIntegrationProject\\Models\\UserLoginModel.cs",
+              "RelativeToolTip": "PaymentIntegrationProject\\Models\\UserLoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:02:36.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\PaymentIntegrationProject\\PaymentIntegrationProject\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "PaymentIntegrationProject\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\PaymentIntegrationProject\\PaymentIntegrationProject\\Services\\UserService.cs",
+              "RelativeToolTip": "PaymentIntegrationProject\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:24:12.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentResult.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\PaymentIntegrationProject\\PaymentIntegrationProject\\Models\\PaymentResult.cs",
+              "RelativeDocumentMoniker": "PaymentIntegrationProject\\Models\\PaymentResult.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\PaymentIntegrationProject\\PaymentIntegrationProject\\Models\\PaymentResult.cs",
+              "RelativeToolTip": "PaymentIntegrationProject\\Models\\PaymentResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:42:55.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentModel.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\PaymentIntegrationProject\\PaymentIntegrationProject\\Models\\PaymentModel.cs",
+              "RelativeDocumentMoniker": "PaymentIntegrationProject\\Models\\PaymentModel.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\PaymentIntegrationProject\\PaymentIntegrationProject\\Models\\PaymentModel.cs",
+              "RelativeToolTip": "PaymentIntegrationProject\\Models\\PaymentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:42:43.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\PaymentIntegrationProject\\PaymentIntegrationProject\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "PaymentIntegrationProject\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\PaymentIntegrationProject\\PaymentIntegrationProject\\Services\\PaymentService.cs",
+              "RelativeToolTip": "PaymentIntegrationProject\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:42:10.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\PaymentIntegrationProject\\PaymentIntegrationProject\\Services\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "PaymentIntegrationProject\\Services\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\PaymentIntegrationProject\\PaymentIntegrationProject\\Services\\IPaymentService.cs",
+              "RelativeToolTip": "PaymentIntegrationProject\\Services\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:41:35.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\PaymentIntegrationProject\\PaymentIntegrationProject\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "PaymentIntegrationProject\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\PaymentIntegrationProject\\PaymentIntegrationProject\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "PaymentIntegrationProject\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:38:59.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\PaymentIntegrationProject\\PaymentIntegrationProject\\appsettings.json",
+              "RelativeDocumentMoniker": "PaymentIntegrationProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\PaymentIntegrationProject\\PaymentIntegrationProject\\appsettings.json",
+              "RelativeToolTip": "PaymentIntegrationProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T08:38:07.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\PaymentIntegrationProject\\PaymentIntegrationProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PaymentIntegrationProject\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\PaymentIntegrationProject\\PaymentIntegrationProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PaymentIntegrationProject\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:37:56.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\PaymentIntegrationProject\\PaymentIntegrationProject\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentIntegrationProject\\Program.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\PaymentIntegrationProject\\PaymentIntegrationProject\\Program.cs",
+              "RelativeToolTip": "PaymentIntegrationProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:36:22.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentIntegrationProject",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\PaymentIntegrationProject\\PaymentIntegrationProject\\PaymentIntegrationProject.csproj",
+              "RelativeDocumentMoniker": "PaymentIntegrationProject\\PaymentIntegrationProject.csproj",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\PaymentIntegrationProject\\PaymentIntegrationProject\\PaymentIntegrationProject.csproj",
+              "RelativeToolTip": "PaymentIntegrationProject\\PaymentIntegrationProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T08:35:37.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
